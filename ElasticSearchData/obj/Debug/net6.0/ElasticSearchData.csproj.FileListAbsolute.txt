@@ -1,0 +1,12 @@
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\bin\Debug\net6.0\ElasticSearchData.deps.json
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\bin\Debug\net6.0\ElasticSearchData.dll
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\bin\Debug\net6.0\ElasticSearchData.pdb
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.csproj.AssemblyReference.cache
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.AssemblyInfoInputs.cache
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.AssemblyInfo.cs
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.csproj.CoreCompileInputs.cache
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.dll
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\refint\ElasticSearchData.dll
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ElasticSearchData.pdb
+C:\WorkArea\ElastickSearchWithCURD\ElasticSearchData\obj\Debug\net6.0\ref\ElasticSearchData.dll
